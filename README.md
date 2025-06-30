@@ -52,15 +52,6 @@ You will see four waveform plots:
 You’ll also get printed info about bit rate, average frequency, and bandwidth.
 
 ---
-
-## 📊 Sample Output
-
-![Line Coding Visualization](example_plot.png)
-
-> *(Image above is just a placeholder – your actual output will be a pop-up matplotlib window with all 4 plots.)*
-
----
-
 ## 🏗️ Project Structure
 
 * `binary_sequence` – The input bitstream (you can change this).
